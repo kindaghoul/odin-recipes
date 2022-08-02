@@ -1,0 +1,46 @@
+* {
+    background: #fff4e0;
+}
+
+h1 {
+    color: rgb(109, 109, 109);
+    text-align: center;
+    font-family: 'Optima', 'Times New Roman', "sans-serif";
+}
+
+p {
+    color: blanchedalmond;
+    background-color: #d8eef7;
+    font-family: 'Bakersville', 'Times New Roman', "sans-serif";
+    padding: 10px;
+    text-align: center;
+    display: inline-block;
+    border-radius: 20px;
+    
+}
+
+/* --- link specifity under this line --- */
+
+a:link {
+    color: darkgrey;
+    text-decoration: none;
+    background-color: #d8eef7;
+}
+
+a:visited {
+    color: #8c5f31;
+    text-decoration: none;
+    background-color: #d8eef7;
+}
+
+a:hover {
+    color: #c7915a;
+    text-decoration: none;
+    background-color: #d8eef7;
+}
+
+a:active {
+    color: darkgrey;
+    text-decoration: none;
+    background-color: #d8eef7;
+}

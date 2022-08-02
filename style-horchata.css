@@ -1,0 +1,37 @@
+* {
+    font-family: 'Didot', 'Times New Roman', "sans-serif";
+    background-color: linen;
+}
+
+/* --- more specificity under this line --- */
+
+h1 {
+    font-family: 'Optima', 'Times New Roman', "sans-serif";
+    color: #bb8b10;
+    background-color: green;
+    display: inline;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 20px;
+}
+
+h2 {
+    font-family: 'Optima', 'Times New Roman', "sans-serif";
+    color: #bb8b10;
+}
+
+h4 {
+    font-family: 'Optima', 'Times New Roman', "sans-serif";
+    color: #bb8b10;
+    background-color: burlywood;
+    font-size: larger;
+    display: inline;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 20px;
+}
+
+img {
+    height: 360px;
+    width: auto;
+}
